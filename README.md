@@ -18,18 +18,6 @@ Tech Stack:
 - Scikit-learn: Library used for building the machine learning model.
 
 
-4. Run the Streamlit app:
-   streamlit run main.py
-
-Project Structure:
-your-repo-name/
-│
-├── main.py              # Main Streamlit app file
-├── has_con.py           # Script for the e-commerce conversion prediction
-├── requirements.txt     # Python dependencies
-├── data/                # Folder to store dataset files
-│   └── example_data.csv # Example data for testing
-└── README.md            # Project documentation (this file)
 
 How to Use:
 1. Upload Data: The **E-commerce Conversion** tab contains a file uploader. Upload your dataset in CSV format for analysis.
